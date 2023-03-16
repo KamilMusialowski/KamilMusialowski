@@ -1,11 +1,11 @@
 ### Hi there, I'm Kamil 👋
 
 ## I'm young, talented and ambitious student, wanting to become a FULLSTACK DEVELOPER!
--I'm studying Computer Science at Silesian University of Technology
--I'm currently learning Spring framework
--I'm looking to join professional team, where I can develop real projects and skills
--Fun fact: I love F1/football and enjoy playing guitar and singing
--Fun fact #2: I'm not good at playing guitar and singing 🤣
+- I'm studying Computer Science at Silesian University of Technology
+- I'm currently learning Spring framework
+- I'm looking to join professional team, where I can develop real projects and skills
+- Fun fact: I love F1/football and enjoy playing guitar and singing
+- Fun fact #2: I'm not good at playing guitar and singing 🤣
 
 ### [Connect with me on LinkedIn](https://www.linkedin.com/in/k-musialowski)
 
