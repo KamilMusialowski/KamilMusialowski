@@ -20,6 +20,15 @@
 - C++
 - UML
 
+### Soft Skills
+
+- Responsible
+- Ambitious
+- Team player
+- Clever
+- Organized
+- Fast-learner
+
 ### Languages
 
 - polish: NATIVE
@@ -28,5 +37,6 @@
 ### Projects
 
 - Sport Events Manager: group project in develop for my studies with my mates. I learned a lot about architecture of simple web-apps, repository pattern and UML
-- Theater Manager: hobby project I'm developing to learn basics of Spring framework. The goal is to create an app that facilitates the sharing of roles between actors and the planning of performances
-- Sepia Filter: project processing .bmp graphics to sepia with one of 2 implementations: C++ or Assembly. I learned about vector instructions and a little bit about simple multithreading
+- [Theater Manager](https://github.com/KamilMusialowski/Theater_Manager): hobby project I'm developing to learn basics of Spring framework. The goal is to create an app that facilitates the sharing of roles between actors and the planning of performances
+- [Sepia Filter](https://github.com/KamilMusialowski/Sepia-ASM-project): project processing .bmp graphics to sepia with one of 2 implementations: C++ or Assembly. I learned about vector instructions and a little bit about simple multithreading
+- [Spring Pet Clinic](): project I'm creating just to learn Spring and maybe understand it a little bit more 😅
