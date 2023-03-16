@@ -10,16 +10,12 @@
 [Connect with me on LinkedIn](https://www.linkedin.com/in/k-musialowski)
 
 ### Skills
-[<img align="left" alt="JAVA" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="SPRING" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GIT" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="JAVA" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SPRING" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GIT" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MYSQL" width="26px" src="vhttps://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-- Spring framework: Boot, Data, Security in the near future
-- SQL, Hibernate
-- Git
-- C++
-- UML
 
 ### Soft Skills
 
