@@ -7,7 +7,7 @@
 - Fun fact: I love F1/football and enjoy playing guitar and singing
 - Fun fact #2: I'm not good at playing guitar and singing 🤣
 
-# [Connect with me on LinkedIn](https://www.linkedin.com/in/k-musialowski)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/k-musialowski)
 
 <br/>
 
