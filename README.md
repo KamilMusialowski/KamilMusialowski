@@ -13,8 +13,8 @@
 [<img align="left" alt="JAVA" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="SPRING" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/hibernate/hibernate-icon.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GIT" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />]
+
 - Spring framework: Boot, Data, Security in the near future
 - SQL, Hibernate
 - Git
