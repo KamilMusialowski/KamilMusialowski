@@ -9,8 +9,6 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/k-musialowski)
 
-<br/>
-
 ### Skills
 
 - Java
