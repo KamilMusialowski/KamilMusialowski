@@ -10,11 +10,13 @@
 [Connect with me on LinkedIn](https://www.linkedin.com/in/k-musialowski)
 
 ### Skills
+<p style="text-align: center;">
 <img align="left" alt="JAVA" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SPRING" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GIT" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MYSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  <p/>
 
 <br/>
 
@@ -26,3 +28,8 @@
 - Clever
 - Organized
 - Fast-learner
+
+###Projects
+- Sport Events Manager: group project in develop for my studies with my mates. I learned a lot about architecture of simple web-apps, repository pattern and UML.
+- [Theater Manager](https://github.com/KamilMusialowski/Theater_Manager): hobby project I'm developing to learn basics of Spring framework. The goal is to create an app that facilitates the sharing of roles between actors and the planning of performances.
+- [Sepia Filter](https://github.com/KamilMusialowski/Sepia-ASM-project): project processing .bmp graphics to sepia with one of 2 implementations: C++ or Assembly. I learned about vector instructions and a little bit about simple multithreading.
