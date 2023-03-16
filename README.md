@@ -7,7 +7,7 @@
 - Fun fact: I love F1/football and enjoy playing guitar and singing
 - Fun fact #2: I'm not good at playing guitar and singing 🤣
 
-### [Connect with me on LinkedIn](https://www.linkedin.com/in/k-musialowski)
+# [Connect with me on LinkedIn](https://www.linkedin.com/in/k-musialowski)
 
 <br/>
 
@@ -22,7 +22,6 @@
 <br/>
 - polish: NATIVE
 - english: B2/C1
-<br/>
 <br/>
 - Sport Events Manager: group project in develop for my studies with my mates. I learned a lot about architecture of simple web-apps, repository pattern and UML.
 - Theater Manager: hobby project I'm developing to learn basics of Spring framework. The goal is to create an app that facilitates the sharing of roles between actors and the planning of performances.
