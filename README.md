@@ -1,6 +1,6 @@
 ### Hi there, I'm Kamil 👋
 
-## I'm young, talented and ambitious student, wanting to become a<br/>FULLSTACK DEVELOPER!
+## I'm young, talented and ambitious student, wanting to become FULLSTACK DEVELOPER!
 - I'm studying Computer Science at Silesian University of Technology
 - I'm currently learning Spring framework
 - I'm looking to join professional team, where I can develop real projects and skills
