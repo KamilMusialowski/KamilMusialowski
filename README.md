@@ -1,9 +1,8 @@
 ### Hi there, I'm Kamil 👋
 
-## I'm young, talented and ambitious student, wanting to become SOFTWARE DEVELOPER!
+## I'm young, talented and ambitious student, wanting to become THE SOFTWARE ENGINEER!
 - 👨‍🎓 I'm studying Computer Science at Silesian University of Technology
-- 🌱 I'm currently learning Spring framework
-- 🧑🏻‍💻 I'm looking to join professional team, where I can develop real projects and skills
+- 🧑🏻‍💻 Currently, I work as Junior Developer at Asseco Poland
 - 🏎 Fun fact: I love F1/football and enjoy playing guitar and singing
 - 🎸Fun fact #2: I'm not good at playing guitar and singing 🤣
 
